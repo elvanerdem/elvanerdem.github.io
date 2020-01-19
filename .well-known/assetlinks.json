@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.elvanerdem.applinksample",
+    "sha256_cert_fingerprints":
+    ["43:59:56:80:EA:E4:40:58:25:8B:58:37:56:81:71:07:67:50:CD:91:2D:77:6D:34:E7:1D:14:B1:7D:8A:34:B6"]
+  }
+}]
