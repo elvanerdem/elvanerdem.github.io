@@ -1,9 +1,50 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.elvanerdem.applinksample",
-    "sha256_cert_fingerprints":
-    ["43:59:56:80:EA:E4:40:58:25:8B:58:37:56:81:71:07:67:50:CD:91:2D:77:6D:34:E7:1D:14:B1:7D:8A:34:B6"]
+[
+  {
+	"relation": [
+	  "delegate_permission/common.handle_all_urls"
+	],
+	"target": {
+	  "namespace": "android_app",
+	  "package_name": "com.garanti.bonusapp",
+	  "sha256_cert_fingerprints": [
+		"5A:72:88:23:E0:01:2B:DB:6D:EA:CD:E7:CF:44:0F:EA:4F:10:F4:20:7A:F4:46:B6:7C:3A:83:6F:54:91:D4:CE"
+	  ]
+	}
+  },
+  {
+	"relation": [
+	  "delegate_permission/common.handle_all_urls"
+	],
+	"target": {
+	  "namespace": "android_app",
+	  "package_name": "com.garanti.bonusapp.qa",
+	  "sha256_cert_fingerprints": [
+		"5A:72:88:23:E0:01:2B:DB:6D:EA:CD:E7:CF:44:0F:EA:4F:10:F4:20:7A:F4:46:B6:7C:3A:83:6F:54:91:D4:CE"
+	  ]
+	}
+  },
+  {
+	"relation": [
+	  "delegate_permission/common.handle_all_urls"
+	],
+	"target": {
+	  "namespace": "android_app",
+	  "package_name": "com.garanti.bonusapp.tst",
+	  "sha256_cert_fingerprints": [
+		"5A:72:88:23:E0:01:2B:DB:6D:EA:CD:E7:CF:44:0F:EA:4F:10:F4:20:7A:F4:46:B6:7C:3A:83:6F:54:91:D4:CE"
+	  ]
+	}
+  },
+  {
+	"relation": [
+	  "delegate_permission/common.handle_all_urls"
+	],
+	"target": {
+	  "namespace": "android_app",
+	  "package_name": "com.garanti.bonusapp.dev",
+	  "sha256_cert_fingerprints": [
+		"5A:72:88:23:E0:01:2B:DB:6D:EA:CD:E7:CF:44:0F:EA:4F:10:F4:20:7A:F4:46:B6:7C:3A:83:6F:54:91:D4:CE"
+	  ]
+	}
   }
-}]
+]
